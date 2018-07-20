@@ -56,7 +56,7 @@ git push
 
 Create a new pull-requests/merge-request to the 2018-ska-internship.
 
-Then the admin will merge it every day. 
+Then the admin will merge it every day.
 
 ## Contact
 
