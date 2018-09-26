@@ -1,0 +1,67 @@
+aips 下载和安装方法页面：页面：http://www.aips.nrao.edu/dec18.shtml
+
+这里面有个东亚VLBI的网站，里面有AIPS 处理VLBI的教程的pdf：https://radio.kasi.re.kr/kava/guide_kavadata_analysis.php
+
+
+我的
+
+我的VLBI数据：Proprietary File Dir :  : https://archive.nrao.edu/secured/PI3823
+You
+Your 
+access username, password : PI3823  DaSYQvXB
+
+
+点开连接，用下面的账户名和密码登陆，右键另存为里面的文件
+
+【PDF】
+
+这个讲座很实用，是台长之前在科大做过的射电天文学的
+
+http://www.aips.nrao.edu/cook.html
+
+aips COOKBOOK，里面又pdf的连接，下载看
+
+主要看一下简介，然后去第9章看VLBI数据的处理方法
+
+如果有耐心，前面的也可以以前看，讲的更细
+
+需要用linux系统安装AIPS和处理
+
+
+DIFMAP
+下载页面：ftp://ftp.astro.caltech.edu/pub/difmap/difmap.html
+安装说明：ftp://ftp.astro.caltech.edu/pub/difmap/README
+需要的包：
+sudo apt-get install pgplot5
+sudo apt-get install libncurses5-dev
+sudo apt-get install libx11-dev
+
+aips 下载和安装方法页面：页面：http://www.aips.nrao.edu/dec18.shtml
+
+这里面
+这里面有个东亚VLBI的网站，里面有AIPS 处理VLBI的教程的pdf：df：https://radio.kasi.re.kr/kava/guide_kavadata_analysis.php
+
+
+我的
+
+我的VLBI数据：Proprietary File Dir :  : https://archive.nrao.edu/secured/PI3823
+You
+Your 
+access username, password : PI3823  DaSYQvXB
+
+
+点开连接，用下面的账户名和密码登陆，右键另存为里面的文件
+
+【PDF】
+
+这个讲座很实用，是台长之前在科大做过的射电天文学的
+
+http://www.aips.nrao.edu/cook.html
+
+aips COOKBOOK，里面又pdf的连接，下载看
+
+主要看一下简介，然后去第9章看VLBI数据的处理方法
+
+如果有耐心，前面的也可以以前看，讲的更细
+
+需要用linux系统安装AIPS和处理
